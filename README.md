@@ -1,12 +1,6 @@
-# Spam Mail Detection
-
-To improve the visual appeal and structure of your README, you can incorporate the following suggestions:
-
----
-
 # 📧 Spam Mail Detection
 
-Detect spam emails efficiently using **Logistic Regression**! This project demonstrates the power of machine learning in classifying emails as spam or ham. By leveraging text preprocessing and feature extraction, this system achieves high accuracy and ensures reliable predictions.
+Detect spam emails efficiently using **Logistic Regression**! This project demonstrates the power of machine learning in classifying emails as spam or ham. This system achieves high accuracy and ensures reliable predictions by leveraging text preprocessing and feature extraction.
 
 ---
 
