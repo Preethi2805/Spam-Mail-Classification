@@ -74,7 +74,6 @@ Output: Spam mail
 spam-mail-detection/
 ├── spam_detection.py       # Main script
 ├── spam.csv                # Dataset
-├── requirements.txt        # Dependencies
 ├── README.md               # Project documentation
 ```
 
