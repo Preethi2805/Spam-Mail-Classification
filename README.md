@@ -84,5 +84,3 @@ spam-mail-detection/
 Contributions are always welcome! Feel free to fork the repo, raise issues, or submit pull requests.
 
 ---
-
-With these changes, your README will have a cleaner, more professional, and engaging look. Let me know if you need help implementing this!
