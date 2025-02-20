@@ -25,37 +25,6 @@ Detect spam emails efficiently using **Logistic Regression**! This project demon
 
 ---
 
-## 🚀 Getting Started
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/spam-mail-detection.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd spam-mail-detection
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### Usage
-1. Run the script:
-   ```bash
-   python spam_detection.py
-   ```
-2. Input an email message for classification.
-
-Example:
-```bash
-Input: "Congratulations! You've won a $1,000 gift card. Click here to claim now!"
-Output: Spam mail
-```
-
----
-
 ## 📊 Workflow
 1. **Data Cleaning**:
    - Removed unnecessary columns.
@@ -74,7 +43,8 @@ Output: Spam mail
 spam-mail-detection/
 ├── spam_detection.py       # Main script
 ├── spam.csv                # Dataset
-├── README.md               # Project documentation
+├── Spam_mail_detection.ipynb # Jupyter Notebook
+├── README.md             # Project documentation
 ```
 
 ---
